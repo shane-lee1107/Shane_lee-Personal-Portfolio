@@ -147,6 +147,9 @@ html{
     height: 400px;
     padding: 0px 30px;
 }
+b{
+    font-size: 1.4rem;
+}
 .name{
     padding: 10px;
 }
